@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Library.fs" />
+    <Compile Include="Enums\ProtocolTypes.fs" />
+    <Compile Include="INatDevice.fs" />
+    <Compile Include="EventArgs\DeviceEventArgs.fs" />
+    <Compile Include="Mapping.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="EventArgs\" />
+  </ItemGroup>
+</Project>

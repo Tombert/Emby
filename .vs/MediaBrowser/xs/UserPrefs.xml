@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{94ADE4D3-B7EC-45CD-A200-CC469433072B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mono.Nat/Pmp/PmpNatDevice.cs">
+    <Files>
+      <File FileName="Mono.Nat2/Library.fs" Line="1" Column="1" />
+      <File FileName="Mono.Nat2/Enums/ProtocolTypes.fs" Line="26" Column="1" />
+      <File FileName="Mono.Nat/Enums/ProtocolType.cs" Line="1" Column="1" />
+      <File FileName="Mono.Nat/EventArgs/DeviceEventArgs.cs" Line="35" Column="31" />
+      <File FileName="Mono.Nat2/EventArgs/DeviceEventArgs.fs" Line="33" Column="1" />
+      <File FileName="Mono.Nat/INatDevice.cs" Line="39" Column="26" />
+      <File FileName="Mono.Nat2/INatDevice.fs" Line="32" Column="31" />
+      <File FileName="Mono.Nat/Mapping.cs" Line="50" Column="3" />
+      <File FileName="Mono.Nat2/Mapping.fs" Line="1" Column="1" />
+      <File FileName="Mono.Nat/Pmp/PmpConstants.cs" Line="1" Column="1" />
+      <File FileName="Mono.Nat/Pmp/PmpNatDevice.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MediaBrowser" expanded="True">
+            <Node name="MediaBrowser.ServerApplication" expanded="True" />
+            <Node name="Mono.Nat" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="EventArgs" expanded="True" />
+              <Node name="Pmp" expanded="True">
+                <Node name="PmpNatDevice.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Mono.Nat2" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="EventArgs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MediaBrowser" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MediaBrowser.ServerApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
